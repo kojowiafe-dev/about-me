@@ -168,12 +168,13 @@ export default function Page() {
                   I like building things
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  During my time in university, I attended{" "}
-                  {DATA.hackathons.length}+ hackathons. People from around the
-                  country would come together and build incredible things in 2-3
-                  days. It was eye-opening to see the endless possibilities
-                  brought to life by a group of motivated and passionate
-                  individuals.
+                  As a student in university, I’ve been actively exploring the
+                  world of hackathons and collaborative building. Right now, I’m
+                  participating in Data Week, part of MLH’s Global Hack Week,
+                  where students and developers from across the globe come
+                  together to build, learn, and share ideas. It’s inspiring to
+                  see how much innovation can happen in just a few days when
+                  passionate people unite with a common purpose.
                 </p>
               </div>
             </div>
