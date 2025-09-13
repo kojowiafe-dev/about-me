@@ -123,6 +123,11 @@ export const DATA = {
           href: "https://mailto-nu.vercel.app",
           icon: <Icons.globe className="size-3" />,
         },
+        {
+          type: "Source",
+          href: "https://github.com/kojowafe-dev/mailto.git",
+          icon: <Icons.github className="size-3" />,
+        },
       ],
       image: "/mailto.png",
       video: "",
