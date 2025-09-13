@@ -101,7 +101,7 @@ export const DATA = {
   projects: [
     {
       title: "AI Email Generator",
-      href: "https://mailt-nu.vercel.app",
+      href: "https://mailto-nu.vercel.app",
       dates: "Jan 2025 - Feb 2025",
       active: true,
       description:
