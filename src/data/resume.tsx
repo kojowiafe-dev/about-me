@@ -159,7 +159,7 @@ export const DATA = {
         },
         {
           type: "Source",
-          href: "https://github.com/kojowiafe-dev/church_management_system",
+          href: "https://github.com/kojowiafe-dev/church_mg_system.git",
           icon: <Icons.github className="size-3" />,
         },
       ],
