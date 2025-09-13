@@ -125,7 +125,7 @@ export const DATA = {
         },
         {
           type: "Source",
-          href: "https://github.com/kojowafe-dev/mailto.git",
+          href: "https://github.com/kojowiafe-dev/mailto.git",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -159,7 +159,7 @@ export const DATA = {
         },
         {
           type: "Source",
-          href: "https://github.com/kojowafe-dev/church_management_system",
+          href: "https://github.com/kojowiafe-dev/church_management_system",
           icon: <Icons.github className="size-3" />,
         },
       ],
