@@ -79,6 +79,17 @@ export const DATA = {
       description:
         "Contributing to the open source code. Networking with developers all over the world. Learning from senior engineers from the Silicon Valley and FAANG.",
     },
+    {
+      company: "Aurora Software Labs",
+      badges: [],
+      href: "https://aurorasoftwarelabs.io",
+      location: "Remote",
+      title: "Frontend Engineer",
+      logoUrl: "/aurora.webp",
+      start: "September 2025",
+      end: "Present",
+      description: "Building responsive, and sleek websites.",
+    },
   ],
   education: [
     {
