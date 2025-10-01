@@ -56,16 +56,15 @@ export const DATA = {
 
   work: [
     {
-      company: "ProImpactNova SWE Team",
-      href: "",
+      company: "Aurora Software Labs",
       badges: [],
-      location: "On-site",
-      title: "Backend Developer",
-      logoUrl: "/pro.jpg",
-      start: "July 2025",
-      end: "August 2025",
-      description:
-        "Collaborated on building the backend of a church mobile app for a client. Write clean, efficient, and maintainable code for application functionality. Implemented business logic to handle data processing, authentication, and workflows. Developed secure and scalable RESTful APIs to allow frontend applications to communicate with the backend. Wrote unit tests to help fix bugs. Worked with DevOps teams to configure servers, CI/CD pipelines, and cloud environments. Monitored server performance and uptime.",
+      href: "https://aurorasoftwarelabs.io",
+      location: "Remote",
+      title: "Frontend Engineer",
+      logoUrl: "/aurora.webp",
+      start: "September 2025",
+      end: "Present",
+      description: "Building responsive, and sleek websites.",
     },
     {
       company: "Major League Hacking",
@@ -80,15 +79,16 @@ export const DATA = {
         "Contributing to the open source code. Networking with developers all over the world. Learning from senior engineers from the Silicon Valley and FAANG.",
     },
     {
-      company: "Aurora Software Labs",
+      company: "ProImpactNova SWE Team",
+      href: "",
       badges: [],
-      href: "https://aurorasoftwarelabs.io",
-      location: "Remote",
-      title: "Frontend Engineer",
-      logoUrl: "/aurora.webp",
-      start: "September 2025",
-      end: "Present",
-      description: "Building responsive, and sleek websites.",
+      location: "On-site",
+      title: "Backend Developer",
+      logoUrl: "/pro.jpg",
+      start: "July 2025",
+      end: "August 2025",
+      description:
+        "Collaborated on building the backend of a church mobile app for a client. Write clean, efficient, and maintainable code for application functionality. Implemented business logic to handle data processing, authentication, and workflows. Developed secure and scalable RESTful APIs to allow frontend applications to communicate with the backend. Wrote unit tests to help fix bugs. Worked with DevOps teams to configure servers, CI/CD pipelines, and cloud environments. Monitored server performance and uptime.",
     },
   ],
   education: [
