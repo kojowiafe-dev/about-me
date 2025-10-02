@@ -56,6 +56,17 @@ export const DATA = {
 
   work: [
     {
+      company: "Lyme Haus",
+      badges: [],
+      href: "https://lymehaus.com",
+      location: "On-site",
+      title: "Intern",
+      logoUrl: "/lymehaus.webp",
+      start: "October 2025",
+      end: "Present",
+      description: "",
+    },
+    {
       company: "Aurora Software Labs",
       badges: [],
       href: "https://aurorasoftwarelabs.io",
